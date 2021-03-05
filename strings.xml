@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VoterApp</string>
+    <string-array name="array_dip">
+        <item>
+            Choose a Candidate
+        </item>
+
+        <item>
+            Candidate 1
+        </item>
+        <item>
+            Candidate 2
+        </item>
+        <item>
+            Candidate 3
+        </item>
+
+    </string-array>
+</resources>
